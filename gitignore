@@ -71,6 +71,6 @@ InitTestScene*.unity
 
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
-test/Library/
-test/Temp/
+WiG_GameJam/test/Library/
+WiG_GameJam/test/Temp/
 
